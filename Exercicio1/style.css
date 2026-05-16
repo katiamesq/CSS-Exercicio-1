@@ -1,7 +1,7 @@
  
 
 body {
-    
+    background-color: bisque;
     margin: 0;
     height: 100vh;
     display: flex;
@@ -49,11 +49,11 @@ button {
     display: flex;
     justify-self: center;
     cursor: pointer;
-    transition: s;
+    transition: 1s;
 }
 
 button:hover {
 background-color: rgb(226, 192, 43);
-color: rgba(9, 8, 8, 0.767);
+color: rgba(9, 8, 8, 0.611);
 }
 
