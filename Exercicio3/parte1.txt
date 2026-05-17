@@ -8,4 +8,24 @@ Footer
 
 - Quais propriedades CSS você acredita que foram utilizadas?
 
+background-color;
+color;
+font-family;
+font-size;
+text-align;
+display-flex;
+justify-content;
+gap;
+padding;
+width;
+border;
+border-radius;
+box-shadow;
+opacity;
+border-color;
+border-style;
+justify-self.
+
+
+
 
