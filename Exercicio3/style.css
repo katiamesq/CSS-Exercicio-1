@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(222, 248, 248);
+    color: rgb(52, 55, 123);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+
+.card {
+    background-color: aliceblue;
+    padding: 20px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+#borda {
+    border-color: rgba(0, 0, 255, 0.666);
+    border-style: solid;
+}
+    .botao1 {
+     
+    background-color:rgba(0, 0, 255, 0.642);
+    color: rgb(247, 246, 248);
+    font-size:small;
+    padding: 8px;
+    border: 0mm;
+    border-radius: 10px;
+    display: flex;
+    justify-self: center;
+ }
+    
+ .botao2 {
+    background-color:rgba(195, 195, 240, 0.642);
+    color: rgb(20, 4, 190);
+    font-size:small;
+    padding: 8px;
+    border: 0mm;
+    border-radius: 10px;
+    display: flex;
+    justify-self: center;
+
+ }

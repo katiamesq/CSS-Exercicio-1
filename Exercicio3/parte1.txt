@@ -1,0 +1,11 @@
+Análise
+
+- Quais elementos HTML você acredita que foram utilizados?
+
+Main - H1 - p - Button - H3 - Section - 3 Article 
+Dentro de cada Article (H4 + p + Button) 
+Footer
+
+- Quais propriedades CSS você acredita que foram utilizadas?
+
+
