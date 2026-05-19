@@ -7,9 +7,11 @@ body {
 }
 
 .estilizar {
-    text-decoration-line:underline;
     text-align: center;
-}
+    background-color: rgba(243, 101, 101, 0.607);
+    border-radius: 20px;
+    padding: 20px;
+   }
 
 .centralizar {
     font-style: italic;
