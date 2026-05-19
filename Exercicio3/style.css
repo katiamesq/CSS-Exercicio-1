@@ -35,22 +35,28 @@ h1 {
     color: rgb(247, 246, 248);
     font-size:small;
     padding: 8px;
-    border: 0mm;
+    border: none;
     border-radius: 10px;
     display: flex;
     justify-self: center;
+    transition: all 0,3s; 
+    box-shadow: 0 4px 5px rgba(0,0,0,0.2);   
      }
     
  .botao2 {
     background-color:rgba(195, 195, 240, 0.642);
     color: rgb(20, 4, 190);
     font-size:small;
-    padding: 8px;
-    border: 0mm;
+    padding: 8px 12px;
+    border: none;
     border-radius: 10px;
     display: flex;
     justify-self: center;
     box-shadow: 0 4px 5px rgba(0,0,0,0.2);
     opacity: 0.9;
+    }
 
- }
+button:hover {
+    transition: 1s; 
+    transform: scale(1.15);
+}

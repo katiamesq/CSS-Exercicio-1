@@ -8,6 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     
+    
 }
 .cartao {
     width: 450px;
@@ -16,6 +17,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
+    
 }
 
 h1 {
@@ -50,10 +52,13 @@ button {
     justify-self: center;
     cursor: pointer;
     transition: 1s;
+    
 }
 
 button:hover {
 background-color: rgb(226, 192, 43);
 color: rgba(9, 8, 8, 0.611);
+transform: scale(1.10);
 }
+
 
